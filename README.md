@@ -1,4 +1,4 @@
-# HelloWorl
+# HelloWorld
 
 ## Description
 HelloWorldAndGit is a Python-based project that prints two messages: "Hello World!" and "Git is awesome!". This project is a simple demonstration of Python's print function.
